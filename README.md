@@ -1,4 +1,4 @@
-# Documentação do Banco de Dados — White Label/Private Label
+# Documentação do Banco de Dados
 
 ## Objetivo
 
